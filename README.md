@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Galla Rishi
 
 🎓 Bachelor's in **Artificial Intelligence & Machine Learning**  
-🤖 Currently pursuing **M.Tech in Robotics** at **Mahindra University**  
+🤖 Currently pursuing **M.Tech in Robotics** at **Mahindra University** 
+📜 Completed **Machine Learning Course** from **Harvard University**
 💡 Passionate about **Machine Learning, Deep Learning, Robotics, and AI Systems**
 
 ---
